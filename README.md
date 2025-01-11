@@ -1,4 +1,4 @@
-<div style={fontFamily: 'monospace'}>
+<div fontFamily='monospace'>
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">Jr web developer, constantly dedicated to studying and daily practice to advance as a front-end developer</h3>
 
